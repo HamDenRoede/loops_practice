@@ -10,6 +10,8 @@ namespace fooling_around
 			//helloWorldCount();
 			//fowardBackCounter();
 			//basicForLoopCounter();
+			basicForLoopCounter();
+			//Git push update.
 		}
 
 		//mit første "do-while" loop. I don't like it. 
