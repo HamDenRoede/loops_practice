@@ -1,0 +1,14 @@
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\do_while_practice.exe
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\do_while_practice.deps.json
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\do_while_practice.runtimeconfig.json
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\do_while_practice.runtimeconfig.dev.json
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\do_while_practice.dll
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\do_while_practice.pdb
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\do_while_practice.csproj.AssemblyReference.cache
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\do_while_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\do_while_practice.AssemblyInfoInputs.cache
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\do_while_practice.AssemblyInfo.cs
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\do_while_practice.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\do_while_practice.dll
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\do_while_practice.pdb
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\do_while_practice.genruntimeconfig.cache

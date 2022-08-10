@@ -1,0 +1,14 @@
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\fooling_around.exe
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\fooling_around.deps.json
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\fooling_around.runtimeconfig.json
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\fooling_around.runtimeconfig.dev.json
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\fooling_around.dll
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\bin\Debug\netcoreapp3.1\fooling_around.pdb
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\fooling_around.csproj.AssemblyReference.cache
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\fooling_around.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\fooling_around.AssemblyInfoInputs.cache
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\fooling_around.AssemblyInfo.cs
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\fooling_around.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\fooling_around.dll
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\fooling_around.pdb
+C:\Users\Jonas\source\repos\fooling_around\fooling_around\obj\Debug\netcoreapp3.1\fooling_around.genruntimeconfig.cache
